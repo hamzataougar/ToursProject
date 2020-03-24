@@ -1,0 +1,14 @@
+{
+  "name": "naturous",
+  "version": "1.0.0",
+  "description": "It s a naturous project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Taougar Hamza",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
